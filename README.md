@@ -53,6 +53,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Cursos
 
+* Python - (Codecademy)
 * jQuery - (Codecademy)
 * Introdução ao NodeJS com Typescript no Visual Studio Code - (Microsoft Virtual Academy)
 * Organizando o JavaScript - (HOWTO)
