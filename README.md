@@ -17,7 +17,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 * HTML
 * CSS (Less)
-* CSS Frameworks (Bootstrap, Foundation)
+* CSS Frameworks (Bootstrap/Foundation/Bulma)
 * Grunt - Gulp
 * JavaScript
 * Git
@@ -53,6 +53,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Cursos
 
+* Design Patterns PHP I - (Alura)
 * Deploy a Website - (Codecademy)
 * Python - (Codecademy)
 * jQuery - (Codecademy)
