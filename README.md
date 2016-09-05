@@ -53,6 +53,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Cursos
 
+* Ruby - (Codecademy)
 * Design Patterns PHP I - (Alura)
 * Deploy a Website - (Codecademy)
 * Python - (Codecademy)
