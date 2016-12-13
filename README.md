@@ -53,6 +53,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Cursos
 
+* Fundamentos do Design Responsivo para a Web - (Udacity)
 * Ruby - (Codecademy)
 * Design Patterns PHP I - (Alura)
 * Deploy a Website - (Codecademy)
