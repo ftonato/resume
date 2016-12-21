@@ -72,3 +72,4 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 ##Extras
 
 * Tradutor do [CSSO](https://github.com/css/csso)
+* Autor no blog da [BrazilJS](https://braziljs.org/blog/author/ftonato/)
