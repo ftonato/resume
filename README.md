@@ -54,7 +54,7 @@ PHP e MySQL para o back-end.
 > Trabalhei como Analista de Sistemas em alguns projetos e em todos os projetos utilizávamos HTML, CSS e
 JavaScript (jQuery) para o front-end e PHP (Zend Framework), MySQL e Oracle Database para o back-end.
 
-**Programador** - Ergoseg - Outubro/2009 - Maio/2013
+**Programador** - Ergoseg - Outubro/2012 - Maio/2013
 
 > Participação no desenvolvimento do sistema *TEGIS*, utilizando HTML, CSS e JavaScript (jQuery) para
 o front-end e PHP (CodeIgniter) e MySQL para o back-end. Além da realização de testes e suporte nos
