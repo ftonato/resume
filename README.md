@@ -40,7 +40,7 @@ criando principalmente serviços que integravam o módulo financeiro com o siste
 >
 > Habilidades: PHP, SQL Server, ColdFusion, Javascript, HTML e CSS
 
-**Programador** - Webtec (Cigam Software Corporativo S.A) - Junho/2014 - Janeiro/2015
+**Programador** - Webtec (Cigam Software Corporativo S.A) - Junho/2014 - Dezembro/2015
 
 > Trabalhando no desenvolvimento do *ERP CIGAM*, utilizando MAGIC como linguagem de programação e
 Oracle Database. Realizando eventuais alterações em sistemas internos, utilizando HTML, CSS e JavaScript para o front-end e
