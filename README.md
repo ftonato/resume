@@ -8,7 +8,7 @@
 
 **Localização:** São Leopoldo, RS - Brasil
 
-##Sobre mim
+## Sobre mim
 Trabalhando como um desenvolvedor Full Stack usando tecnologias front-end como Javascript, AngularJS,
 Sass, HTML, CSS e tecnologias de back-end como PHP e Python.
 
@@ -89,4 +89,4 @@ sistemas desenvolvidos internamente.
 ## Extras
 
 * Tradutor do [CSSO](https://github.com/css/csso)
-* Autor no blog da [BrazilJS](https://braziljs.org/blog/author/ftonato/)
+* Autor no blog da [BrazilJS](https://braziljs.org/blog/author/ademilson-f-tonato/)
