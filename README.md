@@ -89,4 +89,4 @@ sistemas desenvolvidos internamente.
 ## Extras
 
 * Tradutor do [CSSO](https://github.com/css/csso)
-* Autor no blog da [BrazilJS](https://braziljs.org/blog/author/ademilson-f-tonato/)
+* Escritor no blog da [BrazilJS](https://braziljs.org/blog/author/ademilson-f-tonato/)
