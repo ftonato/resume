@@ -70,6 +70,8 @@ sistemas desenvolvidos internamente.
 
 ## Cursos
 
+* Angular 1: crie webapps poderosas - (Alura)
+* Vue.js parte 1: construindo Single Page Applications - (Alura)
 * Fundamentos do Design Responsivo para a Web - (Udacity)
 * Ruby - (Codecademy)
 * Design Patterns PHP I - (Alura)
@@ -90,3 +92,4 @@ sistemas desenvolvidos internamente.
 
 * Tradutor do [CSSO](https://github.com/css/csso)
 * Escritor no blog da [BrazilJS](https://braziljs.org/blog/author/ademilson-f-tonato/)
+* Escritor convidado no blog da [Umbler](http://blog.umbler.com/br/introducao-ao-postcss/)
