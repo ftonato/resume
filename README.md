@@ -9,23 +9,19 @@
 **Localização:** São Leopoldo, RS - Brasil
 
 ## Sobre mim
-Trabalhando como um desenvolvedor Full Stack usando tecnologias front-end como Javascript, AngularJS,
-Sass, HTML, CSS e tecnologias de back-end como PHP e Python.
+Trabalhando como um desenvolvedor Full Stack usando tecnologias front-end como Javascript, AngularJS, Sass, HTML, CSS e tecnologias de back-end como PHP e Python.
 
-Eu gosto de construir aplicações web, dividir conhecimento, escrevendo artigos e contribuindo para projetos de
-código aberto.
-
+Eu gosto de construir aplicações web, compartilhar conhecimento, escrever artigos e contribuir para projetos de código aberto.
 ## Habilidades
 
-* HTML
 * CSS (Less, Sass)
 * CSS Frameworks (Bootstrap/Foundation/Bulma)
-* Grunt - Gulp
-* JavaScript - jQuery
 * Git
-* PHP
+* Grunt - Gulp
+* HTML
+* JavaScript - jQuery
 * MySQL - SQL Server
-
+* PHP
 
 ## Experiência Profissional
 
