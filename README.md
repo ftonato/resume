@@ -6,22 +6,31 @@
 
 **GitHub:** ftonato
 
+**Telegram:** [@ftonato](https://web.telegram.org/#/im?p=@ftonato)
+
+**LinkedIn:** [https://linkedin.com/in/ftonato/en](https://linkedin.com/in/ftonato/en)
+
 **Localização:** São Leopoldo, RS - Brasil
 
 ## Sobre mim
 Trabalhando como um desenvolvedor Full Stack usando tecnologias front-end como Javascript, AngularJS, Sass, HTML, CSS e tecnologias de back-end como PHP e Python.
 
 Eu gosto de construir aplicações web, compartilhar conhecimento, escrever artigos e contribuir para projetos de código aberto.
-## Habilidades
 
-* CSS (Less, Sass)
-* CSS Frameworks (Bootstrap/Foundation/Bulma)
+## Habilidades
+* CSS
+  * Pre-processors (Less, Sass)
+  * Frameworks (Bootstrap/Foundation/Bulma)
 * Git
-* Grunt - Gulp
 * HTML
-* JavaScript - jQuery
+* JavaScript
+  * Libraries (jQuery, Lodash)
+  * Frameworks (Angular, Vue)
+  * Task runners (Grunt, Gulp)
 * MySQL - SQL Server
 * PHP
+  * Frameworks (Laravel, Zend, CodeIgniter)
+  * Micro Frameworks (Lumen, Slim)
 
 ## Experiência Profissional
 
@@ -58,14 +67,12 @@ sistemas desenvolvidos internamente.
 
 
 ## Formação
-
 **Análise e Desenvolvimento de Sistemas - Unisinos** - Cursando
 
 **Técnico em Informática - QI - Escolas e Faculdades** - Conclusão em 2013
 
 
 ## Cursos
-
 * Angular 1: crie webapps poderosas - (Alura)
 * Vue.js parte 1: construindo Single Page Applications - (Alura)
 * Fundamentos do Design Responsivo para a Web - (Udacity)
@@ -83,9 +90,8 @@ sistemas desenvolvidos internamente.
 * Inovando com CSS - (Escol@ Virtual)
 * Modelagem de Dados - (Escol@ Virtual)
 
-
 ## Extras
-
 * Tradutor do [CSSO](https://github.com/css/csso)
 * Escritor no blog da [BrazilJS](https://braziljs.org/blog/author/ademilson-f-tonato/)
 * Escritor convidado no blog da [Umbler](http://blog.umbler.com/br/introducao-ao-postcss/)
+* [Training Center](https://trainingcenter.io/) - Mentor - Desde Abril/2017
