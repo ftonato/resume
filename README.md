@@ -34,9 +34,11 @@ Eu gosto de construir aplicações web, compartilhar conhecimento, escrever arti
 
 ## Experiência Profissional
 
-**Programador** - Planejar - Janeiro/2017 - Atualmente
+**Frontend Developer** - CWI Software - Fevereiro/2018 - Atualmente
 
-...
+
+**Programador** - Planejar - Janeiro/2017 - Fevereiro/2018
+> Trabalhei no desenvolvimento de aplicativos híbridos, como Vestri, Vestri Delivery, i9 Médicos, Resolve Multas, entre outros. Além disso, participei de todo processo de análise e desenvolvimento da plataforma Web responsável por gerenciar o conteúdo dos aplicativos.
 
 **Programador** - F4W - Dezembro/2014 - Janeiro/2017
 
